@@ -7,7 +7,7 @@ cover: https://cdn.hashnode.com/uploads/covers/6a861cd933038e5e6fd9e3e6/97c643fd
 
 ---
 
-Pentesting is a core part of any application security program. Specifically, some organisations use pentesting as the final security gate before production. However, for the AppSec team, pentesting is yet another task in their never-ending operational backlog and one that mostly pops up in your queue out of nowhere demanding high priority. So how can AppSec teams deal with these while making less impact on their own priorities?
+Pentesting is a core part of any application security program. Specifically, some organisations use pentesting as the final security gate before production. However, for the AppSec team, pentesting is yet another task in their never-ending operational backlog and one that mostly pops up in their queue out of nowhere demanding high priority. So how can AppSec teams deal with these while making less impact on their own priorities?
 
 Manual pentests are not going to be scalable enough to keep up with development velocity, especially thanks to coding agents. Traditional DAST tools are struggling to keep up with testing complex business logic and often generate noise.
 
